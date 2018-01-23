@@ -1,3 +1,5 @@
+[![DeepSelect](https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/DeepSelectIcon.png | width=440)]
+
 # DeepSelect
 
 A quick and easy way to select layers inside a group, filtering by layer type
@@ -14,16 +16,12 @@ DeepSelect does that.
 
 Sketch Runner is great, use it :)
 Open Sketch runner, search fon the plugin by name, and click "Install".
-[![Sketch Runner](https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/sketchRunner.png)](http://sketchrunner.com)
+[![Sketch Runner](https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/sketchRunner.png | width=100)](http://sketchrunner.com)
 
 ### Manually
 
 1. Download the ZIP file and unzip it
 2. Open Sketch DeepSelect.sketchplugin
-
-* You may create a [`.babelrc`](https://babeljs.io/docs/usage/babelrc) file in your project's root directory. Any settings you define here will overwrite matching config-keys within skpm preset. For example, if you pass a "presets" object, it will replace & reset all Babel presets that skpm defaults to.
-
-* If you'd like to modify or add to the existing Babel config, you must use a `webpack.skpm.config.js` file. Visit the [Webpack](#webpack) section for more info.
 
 ## Thanks
 
