@@ -3,15 +3,49 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Select All",
+      "identifier": "select-all",
+      "shortcut": "control alt 1",
+      "script": "./deepSelect.js",
+      "handler": "all"
+    },
+    {
+      "name": "Select Groups",
+      "identifier": "select-groups",
+      "shortcut": "scontrol alt 2",
+      "script": "./deepSelect.js",
+      "handler": "groups"
+    },
+    {
+      "name": "Select Images",
+      "identifier": "select-images",
+      "shortcut": "control alt 3",
+      "script": "./deepSelect.js",
+      "handler": "images"
+    },
+    {
+      "name": "Select Shapes",
+      "identifier": "select-shapes",
+      "shortcut": "control alt 4",
+      "script": "./deepSelect.js",
+      "handler": "shapes"
+    },
+    {
+      "name": "Select Texts",
+      "identifier": "select-texts",
+      "shortcut": "control alt 5",
+      "script": "./deepSelect.js",
+      "handler": "texts"
     }
   ],
   "menu": {
     "title": "DeepSelect",
     "items": [
-      "my-command-identifier"
+      "select-all",
+      "select-groups",
+      "select-images",
+      "select-shapes",
+      "select-texts"
     ]
   }
 }
