@@ -1,6 +1,7 @@
+# DeepSelect
+
 <img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/DeepSelectIcon.png" width="220" >
 <br>
-# DeepSelect
 
 A quick and easy way to select layers inside a group, filtering by layer type
 
