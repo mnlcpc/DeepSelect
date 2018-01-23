@@ -1,6 +1,8 @@
 <img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/DeepSelectIcon.png" width="220" />
-<br>
+<br/>
+
 # DeepSelect
+
 A quick and easy way to select layers inside a group, filtering by layer type
 
 ## What?
@@ -15,7 +17,7 @@ DeepSelect does that.
 
 Sketch Runner is great, use it :)
 Open Sketch runner, search fon the plugin by name, and click "Install".
-<br>
+<br/>
 <a href="http://sketchrunner.com"><img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/sketchRunner.png" width="100" /></a>
 
 ### Manually
