@@ -14,7 +14,7 @@ DeepSelect does that.
 
 Sketch Runner is great, use it :)
 Open Sketch runner, search fon the plugin by name, and click "Install".
-[http://sketchrunner.com]()
+[![Sketch Runner](https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/sketchRunner.png)](http://sketchrunner.com)
 
 ### Manually
 
