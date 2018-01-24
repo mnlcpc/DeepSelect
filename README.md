@@ -9,8 +9,14 @@ A quick and easy way to select layers inside a group, filtering by layer type
 
 Have you ever needed to select all the layers inside groups?
 Or maybe just all the text layers, to be able to change typeface for all of them in one step?
+
+<img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/example1.png" width="445" />
+<br/>
+
 DeepSelect does that.
 
+<img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/example2.png" width="445" />
+<br/>
 ## How to intall
 
 ### Sketch Runner
