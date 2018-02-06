@@ -34,4 +34,4 @@ Open Sketch runner, search for the plugin by name, and click "Install".
 
 ## Thanks
 
-Hope you find this plugin useful. If you have ideas to improve it, please don't hesitate to create new issue or pull request.
+Hope you find this plugin useful. If you have ideas to improve it, please don't hesitate to create a new issue or pull request.
