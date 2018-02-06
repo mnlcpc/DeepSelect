@@ -23,15 +23,15 @@ DeepSelect does that.
 ### Sketch Runner
 
 Sketch Runner is great, use it :)
-Open Sketch runner, search fon the plugin by name, and click "Install".
+Open Sketch runner, search for the plugin by name, and click "Install".
 <br/>
 <a href="http://sketchrunner.com"><img src="https://github.com/fhuel/DeepSelect/blob/master/graphic%20assets/sketchRunner.png" width="100" /></a>
 
 ### Manually
 
-1. Download the ZIP file and unzip it
+1. Download the latest ZIP file from the [official Releases](https://github.com/fhuel/DeepSelect/releases) and unzip it
 2. Open Sketch DeepSelect.sketchplugin
 
 ## Thanks
 
-Hope you find this plugin useful. If you have ideas to improve it, please don't esitate to create new issue or pull requests.
+Hope you find this plugin useful. If you have ideas to improve it, please don't hesitate to create a new issue or pull request.
